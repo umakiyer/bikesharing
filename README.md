@@ -35,7 +35,7 @@ By gender.
  ![image](start.PNG)
 
  # Link to the story board
- ![image](https://public.tableau.com/app/profile/uma.iyer/viz/NYCitiBike_16475682530180/NYCityBike?publish=yes)
+ [Link to StoryBoard](https://public.tableau.com/app/profile/uma.iyer/viz/NYCitiBike_16475682530180/NYCityBike?publish=yes)
 
 
 
