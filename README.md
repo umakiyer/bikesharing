@@ -6,7 +6,7 @@ Convince the investors that bike sharing program in Des Moines is a solid busine
 Using Pandas dataframe converted the trip duartion from integer to date format.
 ![image](tripduartion.PNG)
 
-# Length of time bikes checked out :
+## Length of time bikes checked out :
 * Created graph to show the length of time that bikes are checked out for all riders. 
 
 ![image](image1.PNG)
@@ -14,7 +14,7 @@ Using Pandas dataframe converted the trip duartion from integer to date format.
 By gender .
 ![image](image2.PNG)
 
-# Number of bike trips for each hour :
+## Number of bike trips for each hour :
 * The number of bike trips for all riders for each hour of each day of the week.
 
 ![image](image3.PNG)
@@ -22,19 +22,19 @@ By gender .
 By gender.
 ![image](image4.PNG)
 
-# Create the User Trips by Gender by Weekday
+## Create the User Trips by Gender by Weekday
 
 * Created a chart by user type by gender for the weekday.
 ![image](image5.PNG)
 
-# From Module
+## From Module
  * created the peak time bar chart for the bike ride.
  ![image](peak.PNG)
 
- * created the staring point for teh bike ride.
+ ## Created the staring point for the bike ride.
  ![image](start.PNG)
 
- # Link to the story board
+ ## Link to the story board
  [Link to StoryBoard](https://public.tableau.com/app/profile/uma.iyer/viz/NYCitiBike_16475682530180/NYCityBike?publish=yes)
 
 
