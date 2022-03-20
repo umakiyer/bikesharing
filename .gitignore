@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 # add csv file
 CitiBikeData.csv
+201908-citibike-tripdata.csv
 # C extensions
 *.so
 
