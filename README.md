@@ -22,9 +22,8 @@ By gender .
 By gender.
 ![image](image4.PNG)
 
-## Create the User Trips by Gender by Weekday
+## Create the User Trips by Gender by Weekday:
 
-* Created a chart by user type by gender for the weekday.
 ![image](image5.PNG)
 
 ## From Module
