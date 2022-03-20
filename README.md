@@ -27,7 +27,7 @@ By gender.
 * Created a chart by user type by gender for the weekday.
 ![image](image5.PNG)
 
-% From Module
+# From Module
  * created the peak time bar chart for the bike ride.
  ![image](peak.PNG)
 
