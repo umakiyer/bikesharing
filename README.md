@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # NY Citi Bike Program 
 ## Overview of the challenge:
 Convince the investors that bike sharing program in Des Moines is a solid business proposal. Created visualization to back up the proposal. 
@@ -38,7 +36,3 @@ By gender.
  ## Link to the story board
  [Link to StoryBoard](https://public.tableau.com/app/profile/uma.iyer/viz/NYCitiBike_16475682530180/NYCityBike?publish=yes)
 
-
-
-
->>>>>>> 3953a6b1f53b4d243c82b74c9b128ca4c88c051a
